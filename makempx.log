@@ -1,0 +1,1 @@
+makempx fatal: ./metapost01.mp: Command failed: etex --parse-first-line --interaction=nonstopmode mpMDyNeW.tex; see mpxerr.log

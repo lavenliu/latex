@@ -1,0 +1,89 @@
+\documentclass[11pt,a4paper,fancyhdr,adobefonts]{ctexbook}
+
+%\usepackage[fancyhdr]{ctexcap}
+\usepackage{graphicx}
+\usepackage[labelfont=bf,labelsep=quad]{caption}
+  \DeclareCaptionFont{kai}{\kaishu}
+  \captionsetup{textfont=kai}
+  \renewcommand\thetable{\arabic{chapter}-\arabic{table}}
+\usepackage{longtable,tabularx,booktabs}
+
+\usepackage{listings}
+\usepackage{tikz}
+
+\usepackage{enumitem}
+\usepackage{graphicx,floatrow,subfig}
+
+\usepackage[hidelinks]{hyperref}
+\usepackage{makeidx}
+%\usepackage[toc]{multitoc}
+%\usepackage{ifthen}
+
+%\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[ER]{\nouppercase{\leftmark}}
+\fancyhead[OL]{\nouppercase{\rightmark}}
+\fancyhead[EL,OR]{$\cdot$\ \thepage\ $\cdot$}
+\lfoot{\color{blue}{\LaTeX \quad ldczz2008@163.com}}
+\renewcommand{\headrulewidth}{0.4pt}
+%
+%\fancyhead[EL,OR]{\thepage}
+%\fancyhead[OC]{\nouppercase}{\fangsong\rightmark}
+%\fancyhead[EC]{\nouppercase}{\fangsong\leftmark}
+%\fancypagestyle{plain}{\renewcommand{\headrulewidth}{0pt}\fancyhf{}}
+
+%英文字体设置
+\setmainfont[Mapping=tex-text]{AGaramond LT}
+\setsansfont[Mapping=tex-text]{Tahoma}
+\setmonofont{Courier New}
+
+% 中文字体设置
+%\usepackage{xeCJK}
+%\setCJKmainfont[BoldFont={Adobe Heiti Std},
+%ItalicFont={Adobe Kaiti Std}]{Adobe Song Std}
+%\setCJKsansfont{Adobe Heiti Std}
+%\setCJKmonofont{Adobe Fangsong Std}
+\punctstyle{hangmobanjiao}
+
+\begin{document}
+
+\begin{titlepage}
+air.man.six@gmail.com
+\end{titlepage}
+
+\CTEXoptions[listfigurename={图目录},listtablename={表目录}]
+\CTEXsetup[number={\Roman{part}}]{part}
+\CTEXsetup[number={\arabic{chapter}}]{chapter}
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+\input{chapter01SystemIntro}
+
+\input{chapter02BasicCommand}
+
+\input{chapter03Vim}
+
+\input{chapter04RegularExpression}
+
+\input{chapter05Awk}
+
+\input{chapter06Sed}
+
+\input{chapter07Shell}
+
+\input{chapter08Makefile}
+
+\input{chapterGit}
+
+\input{chapter09MySQL}
+
+\input{chapter10SomeServices}
+
+\input{chapter11HighAvailable}
+
+\input{chapter12Automatic}
+
+\end{document}

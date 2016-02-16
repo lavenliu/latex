@@ -1,0 +1,146 @@
+system          > 'cont-new.mkiv' loaded
+
+open source     > 1 > 1 > /usr/local/texlive/2015/texmf-dist/tex/context/base/cont-new.mkiv
+close source    > 1 > 1 > /usr/local/texlive/2015/texmf-dist/tex/context/base/cont-new.mkiv
+system          > files > jobname 'cont-new', input 'cont-new', result 'cont-new'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+
+*
+(Please type a command or say `\end')
+*\setupbodyfont[8pt]
+fonts           > preloading latin modern fonts (third stage)
+fonts           > otf loading > loading '/usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf', hash 'lmroman8-regular'
+fonts           > otf loading > loading done
+fonts           > otf loading > file size: 111948
+fonts           > otf loading > 43 lookup tags compacted
+fonts           > otf loading > 102 bogus names removed
+fonts           > otf loading > saving '/usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf' in cache
+system          > lua > compiling '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/lmroman8-regular.tma' into '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/lmroman8-regular.tmc'
+system          > lua > dumping '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/lmroman8-regular.tma' into '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/lmroman8-regular.tmc' stripped
+fonts           > otf loading > preprocessing and caching time 0.135, packtime 0.033
+fonts           > otf loading > loading '/usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf', hash 'latinmodern-math'
+fonts           > otf loading > loading done
+fonts           > otf loading > file size: 733736
+fonts           > otf loading > 15 lookup tags compacted
+fonts           > otf loading > 3028 bogus names removed
+fonts           > otf loading > saving '/usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf' in cache
+system          > lua > compiling '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/latinmodern-math.tma' into '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/latinmodern-math.tmc'
+system          > lua > dumping '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/latinmodern-math.tma' into '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/latinmodern-math.tmc' stripped
+fonts           > otf loading > preprocessing and caching time 0.334, packtime 0.041
+fonts           > 'fallback modern-designsize rm 8pt' is loaded
+
+*\usetypescript[iwona]
+
+*\usetypescript[antykwa-torunska]
+
+*\disabledirectives[system.errorcontext]%
+
+*\def\ASYprefix{}
+
+*\newbox\ASYbox
+
+*\newdimen\ASYdimen
+
+*\long\def\ASYbase#1#2{\leavevmode\setbox\ASYbox=\hbox{#1}%\ASYdimen=\ht\ASYbox%
+
+*\setbox\ASYbox=\hbox{#2}\lower\ASYdimen\box\ASYbox}
+
+*\switchtobodyfont[iwona]\removeunwantedspaces%
+open source     > 1 > 2 > /usr/local/texlive/2015/texmf-dist/tex/context/base/type-imp-iwona.mkiv
+close source    > 1 > 2 > /usr/local/texlive/2015/texmf-dist/tex/context/base/type-imp-iwona.mkiv
+fonts           > otf loading > loading '/usr/local/texlive/2015/texmf-dist/fonts/opentype/nowacki/iwona/Iwona-Regular.otf', hash 'iwona-regular'
+fonts           > otf loading > loading done
+fonts           > otf loading > file size: 151936
+fonts           > loading > 3 glyphs with no related unicode, 1 guessed, 2 orphans
+fonts           > otf loading > 148 lookup tags compacted
+fonts           > otf loading > 73 bogus names removed
+fonts           > otf loading > saving '/usr/local/texlive/2015/texmf-dist/fonts/opentype/nowacki/iwona/Iwona-Regular.otf' in cache
+system          > lua > compiling '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/iwona-regular.tma' into '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/iwona-regular.tmc'
+system          > lua > dumping '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/iwona-regular.tma' into '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/iwona-regular.tmc' stripped
+fonts           > otf loading > preprocessing and caching time 0.176, packtime 0.046
+fonts           > virtual math > the mapping is incomplete for 'iwonamath' at 5pt
+
+*
+(Please type a command or say `\end')
+*\setbox\ASYbox=\hbox{$A$}
+
+*
+(Please type a command or say `\end')
+*\immediate\write16{>dim(\the\wd\ASYbox)dim}
+>dim(5.43198pt)dim
+
+*\immediate\write16{>dim(\the\ht\ASYbox)dim}
+>dim(5.59999pt)dim
+
+*\immediate\write16{>dim(\the\dp\ASYbox)dim}
+>dim(0.0pt)dim
+
+*\switchtobodyfont[antykwa,8pt]\removeunwantedspaces%
+open source     > 1 > 3 > /usr/local/texlive/2015/texmf-dist/tex/context/base/type-imp-antykwa.mkiv
+close source    > 1 > 3 > /usr/local/texlive/2015/texmf-dist/tex/context/base/type-imp-antykwa.mkiv
+fonts           > otf loading > loading '/usr/local/texlive/2015/texmf-dist/fonts/opentype/public/antt/AntykwaTorunska-Regular.otf', hash 'antykwatorunska-regular'
+fonts           > otf loading > loading done
+fonts           > otf loading > file size: 173960
+fonts           > otf loading > 106 lookup tags compacted
+fonts           > otf loading > saving '/usr/local/texlive/2015/texmf-dist/fonts/opentype/public/antt/AntykwaTorunska-Regular.otf' in cache
+system          > lua > compiling '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/antykwatorunska-regular.tma' into '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/antykwatorunska-regular.tmc'
+system          > lua > dumping '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/antykwatorunska-regular.tma' into '/home/richard/.texlive2015/texmf-var/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9/fonts/otf/antykwatorunska-regular.tmc' stripped
+fonts           > otf loading > preprocessing and caching time 0.121, packtime 0.032
+
+*
+(Please type a command or say `\end')
+*\setbox\ASYbox=\hbox{$A$}
+
+*
+(Please type a command or say `\end')
+*\immediate\write16{>dim(\the\wd\ASYbox)dim}
+>dim(6.12pt)dim
+
+*\immediate\write16{>dim(\the\ht\ASYbox)dim}
+>dim(5.59999pt)dim
+
+*\immediate\write16{>dim(\the\dp\ASYbox)dim}
+>dim(0.0pt)dim
+
+*\switchtobodyfont[iwona]\removeunwantedspaces%
+
+*
+(Please type a command or say `\end')
+*\setbox\ASYbox=\hbox{$A$}
+
+*
+(Please type a command or say `\end')
+*\immediate\write16{>dim(\the\wd\ASYbox)dim}
+>dim(5.43198pt)dim
+
+*\immediate\write16{>dim(\the\ht\ASYbox)dim}
+>dim(5.59999pt)dim
+
+*\immediate\write16{>dim(\the\dp\ASYbox)dim}
+>dim(0.0pt)dim
+
+*\switchtobodyfont[antykwa,8pt]\removeunwantedspaces%
+
+*
+(Please type a command or say `\end')
+*\setbox\ASYbox=\hbox{$A$}
+
+*
+(Please type a command or say `\end')
+*\immediate\write16{>dim(\the\wd\ASYbox)dim}
+>dim(6.12pt)dim
+
+*\immediate\write16{>dim(\the\ht\ASYbox)dim}
+>dim(5.59999pt)dim
+
+*\immediate\write16{>dim(\the\dp\ASYbox)dim}
+>dim(0.0pt)dim
+
+*
+! Emergency stop.
+<*> \immediate\write16{>dim(\the\dp\ASYbox)dim}
+                                            
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

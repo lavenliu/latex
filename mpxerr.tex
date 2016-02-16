@@ -1,0 +1,44 @@
+%&latex
+  \documentclass{article}
+  \usepackage{latexsym}
+  \usepackage{amsmath}                  % AMS LaTeX宏包
+  \usepackage{amssymb}                  % 用来排版漂亮的数学公式
+  \usepackage{amsbsy}
+  \usepackage{amsthm}
+  \usepackage{amsfonts}
+  \usepackage{amscd}
+  \usepackage{mathrsfs}                 % 英文花体字体
+  \usepackage{CJK}
+  \begin{CJK}{GB}{song}                 % 如果在Windows下用MikTeX+WinEdt，用\begin{CJK}{GBK}{song}
+  \begin{document}
+  
+\gdef\mpxshipout{\shipout\hbox\bgroup%
+  \setbox0=\hbox\bgroup}%
+\gdef\stopmpxshipout{\egroup  \dimen0=\ht0 \advance\dimen0\dp0
+  \dimen1=\ht0 \dimen2=\dp0
+  \setbox0=\hbox\bgroup
+    \box0
+    \ifnum\dimen0>0 \vrule width1sp height\dimen1 depth\dimen2 
+    \else \vrule width1sp height1sp depth0sp\relax
+    \fi\egroup
+  \ht0=0pt \dp0=0pt \box0 \egroup}
+\mpxshipout% line 30 ./metapost01.mp
+投影空间~$\mathscr{L}$%
+\stopmpxshipout
+\mpxshipout% line 34 ./metapost01.mp
+$\boldsymbol{z}$%
+\stopmpxshipout
+\mpxshipout% line 35 ./metapost01.mp
+$\boldsymbol{z}$~在~$\mathscr{L}$~上的投影%
+\stopmpxshipout
+\mpxshipout% line 36 ./metapost01.mp
+$\rightsquigarrow \|\boldsymbol{z}-{\rm Proj} \boldsymbol{z}\|$~是~$\boldsymbol{z}$~到%
+\stopmpxshipout
+\mpxshipout% line 37 ./metapost01.mp
+\ \ \ \ 投影空间~$\mathscr{L}$~的最短距离%
+\stopmpxshipout
+% line 46 ./metapost01.mp
+  \end{CJK}
+  \end{document}
+  
+\end{document}

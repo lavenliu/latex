@@ -1,0 +1,996 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2015.4.11)  19 MAY 2015 20:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**mpMDyNeW.tex
+(./mpMDyNeW.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 1999/11/29 v2.0
+\athelp@=\toks25
+\minaw@=\dimen112
+\bigaw@=\dimen113
+\minCDarrowwidth=\dimen114
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup7
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2012/05/07 4.8.3
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2012/05/07 4.8.3
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2012/05/07 4.8.3
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box28
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cjk/texinput/standard.bdg
+File: standard.bdg 2012/05/07 4.8.3
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cjk/texinput/standard.enc
+File: standard.enc 2012/05/07 4.8.3
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cjk/texinput/standard.chr
+File: standard.chr 2012/05/07 4.8.3
+)
+No file mpMDyNeW.aux.
+\openout1 = `mpMDyNeW.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+! Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 �
+       �影空间~$\mathscr{L}$%
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+! Argument of \CJK@XX has an extra }.
+<inserted text> 
+                \par 
+l.26 投�
+         ��空间~$\mathscr{L}$%
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.26 投�
+         ��空间~$\mathscr{L}$%
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+LaTeX Font Info:    Try loading font information for C10+song on input line 26.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cjk/texinput/GB/c10song.fd
+File: c10song.fd 2012/05/07 4.8.3
+)
+LaTeX Font Info:    Try loading font information for C10+fs on input line 26.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/cjk/texinput/GB/c10fs.fd
+File: c10fs.fd 2012/05/07 4.8.3
+)
+
+LaTeX Font Warning: Font shape `C10/song/m/n'
+(Font)              in size <10> not available.
+(Font)              Font shape `C10/fs/m/n'
+(Font)              tried instead on input line 26.
+
+! Font C10/fs/m/n/10/11=gsfs1411 at 10.0pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.26 投影
+           空间~$\mathscr{L}$%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+! Font \C10/fs/m/n/10=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.26 投影
+           空间~$\mathscr{L}$%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no X in font nullfont!
+! Font C10/fs/m/n/10/26=gsfs1426 at 10.0pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.26 投影�
+             �间~$\mathscr{L}$%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+! Font \C10/fs/m/n/10=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.26 投影�
+             �间~$\mathscr{L}$%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no � in font nullfont!
+! Font C10/fs/m/n/10/10=gsfs1410 at 10.0pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.26 投影空�
+               ��~$\mathscr{L}$%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+! Font \C10/fs/m/n/10=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.26 投影空�
+               ��~$\mathscr{L}$%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no v in font nullfont!
+! Argument of \CJK@XX has an extra }.
+<inserted text> 
+                \par 
+l.26 投影空间
+                 ~$\mathscr{L}$%
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.26 投影空间
+                 ~$\mathscr{L}$%
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+LaTeX Font Info:    Try loading font information for U+lasy on input line 26.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 26.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 26.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 26.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [1]
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 29.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 29.
+ [1]
+
+! Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 $\boldsymbol{z}$~�
+                        �~$\mathscr{L}$~上的投影%
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+
+! Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 $\boldsymbol{z}$~在~
+                          $\mathscr{L}$~上的投影%
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+! Font C10/fs/m/n/10/25=gsfs1425 at 10.0pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.32 $\boldsymbol{z}$~在~$\mathscr{L}$~�
+                                          �的投影%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+! Font \C10/fs/m/n/10=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.32 $\boldsymbol{z}$~在~$\mathscr{L}$~�
+                                          �的投影%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no � in font nullfont!
+! Argument of \CJK@XX has an extra }.
+<inserted text> 
+                \par 
+l.32 $\boldsymbol{z}$~在~$\mathscr{L}$~上�
+                                            ��投影%
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.32 $\boldsymbol{z}$~在~$\mathscr{L}$~上�
+                                            ��投影%
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Argument of \CJK@XX has an extra }.
+<inserted text> 
+                \par 
+l.32 $\boldsymbol{z}$~在~$\mathscr{L}$~上的
+                                              投影%
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.32 $\boldsymbol{z}$~在~$\mathscr{L}$~上的
+                                              投影%
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+! Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 $\boldsymbol{z}$~在~$\mathscr{L}$~上的�
+                                                �影%
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+! Argument of \CJK@XX has an extra }.
+<inserted text> 
+                \par 
+l.32 $\boldsymbol{z}$~在~$\mathscr{L}$~上的投�
+                                                  ��%
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.32 $\boldsymbol{z}$~在~$\mathscr{L}$~上的投�
+                                                  ��%
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Font C10/fs/m/n/10/11=gsfs1411 at 10.0pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.32 ...dsymbol{z}$~在~$\mathscr{L}$~上的投影
+                                                  %
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+! Font \C10/fs/m/n/10=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.32 ...dsymbol{z}$~在~$\mathscr{L}$~上的投影
+                                                  %
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no X in font nullfont!
+[1]
+
+! Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 ...dsymbol{z}-{\rm Proj} \boldsymbol{z}\|$~�
+                                                  �~$\boldsymbol{z}$~到%
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+
+! Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 ...ymbol{z}-{\rm Proj} \boldsymbol{z}\|$~是~
+                                                  $\boldsymbol{z}$~到%
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+
+! Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 ... \boldsymbol{z}\|$~是~$\boldsymbol{z}$~�
+                                                  �%
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+! Improper alphabetic constant.
+<to be read again> 
+                   \stopmpxshipout 
+l.36 \stopmpxshipout
+                    
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   \egroup 
+l.36 \stopmpxshipout
+                    
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \egroup 
+l.36 \stopmpxshipout
+                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Improper alphabetic constant.
+<to be read again> 
+                   \stopmpxshipout 
+l.36 \stopmpxshipout
+                    
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   \egroup 
+l.36 \stopmpxshipout
+                    
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \egroup 
+l.36 \stopmpxshipout
+                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Improper alphabetic constant.
+<to be read again> 
+                   \stopmpxshipout 
+l.36 \stopmpxshipout
+                    
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+! Font C10/fs/m/n/10/06=gsfs1406 at 10.0pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.36 \stopmpxshipout
+                    
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+! Font \C10/fs/m/n/10=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.36 \stopmpxshipout
+                    
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no � in font nullfont!
+[1]
+
+! Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \ \ \ \ �
+               �影空间~$\mathscr{L}$~的最短距离%
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+! Argument of \CJK@XX has an extra }.
+<inserted text> 
+                \par 
+l.38 \ \ \ \ 投�
+                 ��空间~$\mathscr{L}$~的最短距离%
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.38 \ \ \ \ 投�
+                 ��空间~$\mathscr{L}$~的最短距离%
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Font C10/fs/m/n/10/11=gsfs1411 at 10.0pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.38 \ \ \ \ 投影
+                   空间~$\mathscr{L}$~的最短距离%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+! Font \C10/fs/m/n/10=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.38 \ \ \ \ 投影
+                   空间~$\mathscr{L}$~的最短距离%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no X in font nullfont!
+! Font C10/fs/m/n/10/26=gsfs1426 at 10.0pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.38 \ \ \ \ 投影�
+                     �间~$\mathscr{L}$~的最短距离%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+! Font \C10/fs/m/n/10=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.38 \ \ \ \ 投影�
+                     �间~$\mathscr{L}$~的最短距离%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no � in font nullfont!
+! Font C10/fs/m/n/10/10=gsfs1410 at 10.0pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.38 \ \ \ \ 投影空�
+                       ��~$\mathscr{L}$~的最短距离%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+! Font \C10/fs/m/n/10=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.38 \ \ \ \ 投影空�
+                       ��~$\mathscr{L}$~的最短距离%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no v in font nullfont!
+! Argument of \CJK@XX has an extra }.
+<inserted text> 
+                \par 
+l.38 \ \ \ \ 投影空间
+                         ~$\mathscr{L}$~的最短距离%
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.38 \ \ \ \ 投影空间
+                         ~$\mathscr{L}$~的最短距离%
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+! Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \ \ \ \ 投影空间~$\mathscr{L}$~�
+                                          �最短距离%
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+! Argument of \CJK@XX has an extra }.
+<inserted text> 
+                \par 
+l.38 \ \ \ \ 投影空间~$\mathscr{L}$~的�
+                                            ��短距离%
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.38 \ \ \ \ 投影空间~$\mathscr{L}$~的�
+                                            ��短距离%
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Undefined control sequence.
+<argument> �
+            
+l.38 \ \ \ \ 投影空间~$\mathscr{L}$~的最
+                                              短距离%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \ \ \ \ 投影空间~$\mathscr{L}$~的最�
+                                                �距离%
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+! Font C10/fs/m/n/10/05=gsfs1405 at 10.0pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.38 \ \ \ \ 投影空间~$\mathscr{L}$~的最短�
+                                                  ��离%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+! Font \C10/fs/m/n/10=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.38 \ \ \ \ 投影空间~$\mathscr{L}$~的最短�
+                                                  ��离%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no � in font nullfont!
+
+! Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ... \ 投影空间~$\mathscr{L}$~的最短距
+                                                  离%
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+! Font C10/fs/m/n/10/26=gsfs1426 at 10.0pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.38 ... 投影空间~$\mathscr{L}$~的最短距�
+                                                  �%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+! Font \C10/fs/m/n/10=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.38 ... 投影空间~$\mathscr{L}$~的最短距�
+                                                  �%
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no � in font nullfont!
+! Improper alphabetic constant.
+<to be read again> 
+                   \stopmpxshipout 
+l.39 \stopmpxshipout
+                    
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   \egroup 
+l.39 \stopmpxshipout
+                    
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \egroup 
+l.39 \stopmpxshipout
+                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Improper alphabetic constant.
+<to be read again> 
+                   \stopmpxshipout 
+l.39 \stopmpxshipout
+                    
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   \egroup 
+l.39 \stopmpxshipout
+                    
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \egroup 
+l.39 \stopmpxshipout
+                    
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Improper alphabetic constant.
+<to be read again> 
+                   \stopmpxshipout 
+l.39 \stopmpxshipout
+                    
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+! Font C10/fs/m/n/10/10=gsfs1410 at 10.0pt not loadable: Metric (TFM) file not 
+found.
+<to be read again> 
+                   relax 
+l.39 \stopmpxshipout
+                    
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+! Font \C10/fs/m/n/10=nullfont not loadable: Metric (TFM) file not found.
+<to be read again> 
+                   \relax 
+l.39 \stopmpxshipout
+                    
+I wasn't able to read the size data for this font,
+so I will ignore the font specification.
+[Wizards can fix TFM files using TFtoPL/PLtoTF.]
+You might try inserting a different font spec;
+e.g., type `I\font<same font id>=<substitute font name>'.
+
+Missing character: There is no � in font nullfont!
+[1] [1
+
+] (./mpMDyNeW.aux) ) 
+Here is how much of TeX's memory you used:
+ 2317 strings out of 493118
+ 26209 string characters out of 6135465
+ 85388 words of memory out of 5000000
+ 5762 multiletter control sequences out of 15000+600000
+ 9015 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 27i,7n,26p,279b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on mpMDyNeW.dvi (6 pages, 612 bytes).

@@ -1,0 +1,56 @@
+\documentclass[12pt]{article}
+\usepackage{type1cm}
+\usepackage{asycolors}
+\def\Red#1{{\color{red}#1}}%
+\def\Green#1{{\color{heavygreen}#1}}%
+\def\Blue#1{{\color{blue}#1}}%
+\def\Foreground#1{{\color{black}#1}}%
+\def\Background#1{{\color{white}#1}}%
+\def\bulletcolor{\color{red}}%
+\hyphenpenalty=10000\tolerance=1000
+\usepackage{hyperref}
+\hypersetup{setpagesize=false,unicode,pdfborder=0 0 0}
+\usepackage[bigfiles]{media9}
+\newif\ifplaybutton
+\count255=\the\catcode`\@\makeatletter%
+\@ifpackagelater{media9}{2013/11/15}{}{\playbuttontrue}%
+\catcode`\@=\the\count255
+%
+\def\Red#1{{\color{red}#1}}%
+\def\Green#1{{\color{heavygreen}#1}}%
+\def\Blue#1{{\color{blue}#1}}%
+\def\Foreground#1{{\color{black}#1}}%
+\def\Background#1{{\color{white}#1}}%
+\bibliographystyle{alpha}
+\usepackage{mflogo}
+\def\ASYprefix{}
+\newbox\ASYbox
+\newdimen\ASYdimen
+\long\def\ASYbase#1#2{\leavevmode\setbox\ASYbox=\hbox{#1}%\ASYdimen=\ht\ASYbox%
+\setbox\ASYbox=\hbox{#2}\lower\ASYdimen\box\ASYbox}
+\pagestyle{empty}
+\textheight=2048pt
+\textwidth=2048pt
+\begin{document}
+\makeatletter%
+\let\ASYencoding\f@encoding%
+\let\ASYfamily\f@family%
+\let\ASYseries\f@series%
+\let\ASYshape\f@shape%
+\makeatother%
+\fontsize{24.000000}{28.800000}\selectfont
+\usefont{\ASYencoding}{\ASYfamily}{\ASYseries}{\ASYshape}%
+$(1,1)$\ %
+\fontsize{24.000000}{28.800000}\selectfont
+\newpage
+$r$\ %
+\fontsize{24.000000}{28.800000}\selectfont
+\newpage
+$x$\ %
+\fontsize{24.000000}{28.800000}\selectfont
+\newpage
+$y$\ %
+\fontsize{24.000000}{28.800000}\selectfont
+\newpage
+$y=\sqrt{x}$\ %
+\end{document}

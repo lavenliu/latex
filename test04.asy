@@ -1,0 +1,10 @@
+size(200);
+pair Z=(0,0),Z1=(3,0),Z2=(2,1);
+real t=1/3;
+pair A=interp(Z,Z1,t);
+draw(Z--Z1);
+draw(A--Z2);
+arrow("$t=\frac{1}{3}$",A,SE);
+dot("$a$",A,NW);
+dot("$b$",Z2,E);
+dot("$o$",Z,W);

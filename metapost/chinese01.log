@@ -1,0 +1,25 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=mptopdf 2015.6.23)  23 JUN 2015 20:04
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\relax chinese01.1
+ (./chinese01.1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdfte
+x.map}) [warning: the height is less than 1in] [1] 
+Here is how much of TeX's memory you used:
+ 102 strings out of 496714
+ 772 string characters out of 6201117
+ 4016433 words of memory out of 9001640
+ 1751 multiletter control sequences out of 15000+600000
+ 1097 words of font info for 4 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 10i,3n,7p,113b,301s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texm
+f-dist/fonts/type1/arphic/gbsnu/gbsnu4f.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/arphic/gbsnu/gbsnu53.pfb></usr/local/texlive/2015/texmf-dist/fonts
+/type1/arphic/gbsnu/gbsnu57.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1
+/public/amsfonts/symbols/msam10.pfb>
+Output written on chinese01.pdf (1 page, 17261 bytes).
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 7 words of extra memory for PDF output out of 10000 (max. 10000000)
+

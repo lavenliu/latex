@@ -1,0 +1,79 @@
+\documentclass[12pt]{article}
+\usepackage{hyperref}
+\hypersetup{setpagesize=false,unicode,pdfborder=0 0 0}
+\usepackage[bigfiles]{media9}
+\newif\ifplaybutton
+\count255=\the\catcode`\@\makeatletter%
+\@ifpackagelater{media9}{2013/11/15}{}{\playbuttontrue}%
+\catcode`\@=\the\count255
+%
+\def\ASYprefix{}
+\newbox\ASYbox
+\newdimen\ASYdimen
+\long\def\ASYbase#1#2{\leavevmode\setbox\ASYbox=\hbox{#1}%\ASYdimen=\ht\ASYbox%
+\setbox\ASYbox=\hbox{#2}\lower\ASYdimen\box\ASYbox}
+\pagestyle{empty}
+\textheight=2048pt
+\textwidth=2048pt
+\begin{document}
+\makeatletter%
+\let\ASYencoding\f@encoding%
+\let\ASYfamily\f@family%
+\let\ASYseries\f@series%
+\let\ASYshape\f@shape%
+\makeatother%
+\fontsize{12.000000}{14.400000}\selectfont
+\usefont{\ASYencoding}{\ASYfamily}{\ASYseries}{\ASYshape}%
+$\mathop{\rm Im} z$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+$\mathop{\rm Re} z$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+$|\Gamma(z)|$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$-1$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$-2$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$0$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$1$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$10$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$11$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$12$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$2$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$3$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$4$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$5$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$6$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$7$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$8$\ %
+\fontsize{12.000000}{14.400000}\selectfont
+\newpage
+\vphantom{$10^4$}$9$\ %
+\end{document}
